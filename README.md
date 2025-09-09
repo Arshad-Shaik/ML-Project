@@ -83,7 +83,7 @@ A comprehensive **Machine Learning desktop application** built with **Python and
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/student-performance-prediction/issues).
+Contributions, issues, and feature requests are welcome! Feel free.
 
 ## 📜 License
 
