@@ -1,4 +1,4 @@
-# ML-Project
+# ML-Project - Student Performance Prediction System
 "A MACHINE LEARNING APPROACH FOR TRACKING AND PREDICTING STUDENT PERFORMANCE IN DEGREE PROGRAMS"
 
 # 🎓 Student Performance Prediction System
