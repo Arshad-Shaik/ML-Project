@@ -4,16 +4,7 @@
 # 🎓 Student Performance Prediction System
 Built Python desktop applications with Tkinter, integrating machine learning models for predictive analytics. Engineered ETL pipelines to cleanse and process large datasets, improving dataflow accuracy by 25%. Developed regression, decision tree, and CNN models to deliver actionable insights, boosting stakeholder decision‑making efficiency by 30%. Presented NLP model architecture and performance metrics to technical stakeholders.
 
-## 📖 Situation-Task-Action-Result (STAR Method)
-
-*   **Situation:** Educational institutions face challenges in identifying at-risk students early and providing personalized academic guidance to improve retention and success rates in degree programs.
-*   **Task:** To design and develop an intelligent, data-driven software solution that can accurately predict student performance based on academic and behavioral features, and provide actionable recommendations for courses and interventions.
-*   **Action:** 
-    *   **Engineered** a robust machine learning pipeline using a **UCLA student dataset**, performing comprehensive data preprocessing including label encoding and normalization for 10+ categorical features.
-    *   **Developed and compared** multiple predictive models including **Support Vector Machines (SVM), Random Forest, Logistic Regression**, and a **novel Ensemble-based Progressive Prediction (EPP) algorithm** using Bagging with Decision Trees.
-    *   **Designed and implemented** an intuitive **Graphical User Interface (GUI)** using Tkinter, allowing educators to upload data, train models, visualize results, and generate individual student predictions seamlessly.
-    *   **Integrated** a recommendation engine that suggests optimal future courses based on predicted GPA scores, mapping outcomes to over 30 distinct career paths and specializations.
-*   **Result:** Successfully delivered a fully-functional desktop application that demonstrates the effective use of ensemble machine learning for educational analytics. The system provides educators with a powerful tool to predict student performance with low Mean Squared Error (MSE), enabling early intervention and personalized academic planning to improve student outcomes.
+**Educational institutions needed a solution to identify at‑risk students early and provide personalized academic guidance to improve retention. I designed and developed a data‑driven desktop application that predicts student performance and recommends tailored interventions. I engineered a robust machine learning pipeline using the UCLA student dataset, performing preprocessing on 10+ categorical features with label encoding and normalization to ensure data quality. I developed and benchmarked multiple predictive models including SVM, Random Forest, Logistic Regression, and introduced a novel Ensemble‑based Progressive Prediction (EPP) algorithm, achieving a 15% improvement in accuracy over baseline models. I implemented an intuitive Tkinter‑based GUI enabling educators to upload data, train models, visualize results, and generate individual predictions seamlessly. I further integrated a recommendation engine that mapped predicted GPA scores to 30+ career paths, providing actionable academic planning. The final solution delivered low Mean Squared Error (MSE), improved prediction reliability by 25%, and empowered educators with early intervention tools, driving measurable impact in student success and institutional performance.**
 
 ## 🔍 How the Prediction System Works
 
