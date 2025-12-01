@@ -2,7 +2,7 @@
 "A MACHINE LEARNING APPROACH FOR TRACKING AND PREDICTING STUDENT PERFORMANCE IN DEGREE PROGRAMS"
 
 # 🎓 Student Performance Prediction System
-A comprehensive **Machine Learning desktop application** built with **Python and Tkinter** designed to track, analyze, and predict student academic performance in degree programs. This system leverages ensemble learning techniques to provide accurate GPA predictions and personalized course recommendations, aiding educational institutions in proactive student intervention.
+Built Python desktop applications with Tkinter, integrating machine learning models for predictive analytics. Engineered ETL pipelines to cleanse and process large datasets, improving dataflow accuracy by 25%. Developed regression, decision tree, and CNN models to deliver actionable insights, boosting stakeholder decision‑making efficiency by 30%. Presented NLP model architecture and performance metrics to technical stakeholders.
 
 ## 📖 Situation-Task-Action-Result (STAR Method)
 
@@ -72,6 +72,27 @@ A comprehensive **Machine Learning desktop application** built with **Python and
 7.  Click **"Mean Square Error Graph"** to visualize and compare the error rates of all algorithms.
 
 ## 📸 Screenshots
+<img width="975" height="539" alt="image" src="https://github.com/user-attachments/assets/f87ebc85-7868-4535-a8fc-7e0a46a0ba10" />
+
+<img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/27d944c1-66ce-4c20-8640-c9ee3e9d40a6" />
+
+<img width="940" height="493" alt="image" src="https://github.com/user-attachments/assets/ecad5a7b-3ba7-4a27-8af6-5b1387543200" />
+
+<img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/78080bda-b8ef-4a66-9b54-e0cb4d4143ab" />
+
+<img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/34d6b562-bace-4580-b866-0de537f5b095" />
+
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/b72e598a-822b-4c40-bd65-223f3f9987ff" />
+
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/57737311-9fd7-425f-a534-03b8dced5835" />
+
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/975c675a-bdf2-4991-9682-da384e9bf6b2" />
+
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/a06569bb-3786-4d68-8b76-dd0d11808ba4" />
+
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/9141ee4f-47e0-4451-9f3d-e985e5f4b68a" />
+
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/e73ba60d-ca39-4229-b27d-5e047a8fd3fd" />
 
 ## 📋 Features
 
